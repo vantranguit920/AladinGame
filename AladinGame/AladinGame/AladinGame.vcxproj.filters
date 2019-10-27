@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Component">
+      <UniqueIdentifier>{3ac9d6e3-fa45-45e0-87c0-f6dd33c408d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameDefine">
+      <UniqueIdentifier>{a4b0bc72-0d23-474d-b858-6c9923d91691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{f0f824ad-a415-4a4f-b0c5-da0dabf063c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{9cd6d262-2c1f-41b7-8246-b145fc25fdf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{940c0c88-f722-4516-90ee-f9451e246bb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TinyXML">
+      <UniqueIdentifier>{f39342ae-5313-4a7b-bd4f-9a9ea7ac683e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sound">
+      <UniqueIdentifier>{7dec4b7d-e6de-409a-9685-dc6207da89ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stage">
+      <UniqueIdentifier>{b6411e70-fd80-4ac7-bacd-30f1869e0d03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Collision.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Game.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Graphic.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Keyboard.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Mouse.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Sprite.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Text.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\WinMain.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\ObjectManager.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Scene.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\SpriteSheet.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\TinyXML\tinystr.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\TinyXML\tinyxml.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\TinyXML\tinyxmlerror.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\TinyXML\tinyxmlparser.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Collision.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Game.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Graphic.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Keyboard.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Mouse.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Sprite.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Text.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\GameDefine.h">
+      <Filter>GameDefine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Object.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\ObjectManager.h">
+      <Filter>Object</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\Ex2-20191011T012453Z-001\Ex2\Game\Scene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\SpriteSheet.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\TinyXML\tinystr.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Downloads\MegaMan-X3-master\MegaMan-X3-master\Mega Man X3\TinyXML\tinyxml.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
